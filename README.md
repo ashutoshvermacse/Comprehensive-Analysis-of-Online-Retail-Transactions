@@ -1,4 +1,4 @@
-# Comprehensive-Analysis-of-Online-Retail-Transactions
+# Comprehensive Analysis of Online Retail Transactions
 
 This project analyzes a transactional dataset containing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retailer. The data is sourced from the UCI Machine Learning Repository and is available at: https://archive.ics.uci.edu/dataset/352/online+retail
 
