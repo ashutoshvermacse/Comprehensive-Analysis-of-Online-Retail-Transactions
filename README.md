@@ -23,6 +23,8 @@ Diese umfassende Analyse liefert wertvolle Einblicke in das Kundenverhalten, die
 
 ---
 
+<details>
+  <summary><strong>🇬🇧 Project Description (English)</strong></summary>
 
 # Comprehensive Analysis of Online Retail Transactions
 
@@ -41,3 +43,5 @@ The following analyses have been performed:
 5. **`Market Basket Analysis:`** Performed market basket analysis to identify products that are frequently purchased together. This analysis is useful for cross-selling and up-selling strategies.
 
 This comprehensive analysis provides valuable insights into customer behavior, sales performance, and product associations, aiding in strategic decision-making for the online retailer.
+
+</details>
